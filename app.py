@@ -10,3 +10,4 @@ def divisores_primos(n):
   array_de_primos = divisores_primos(40) 
   
    
+
