@@ -7,5 +7,6 @@ def divisores_primos(n):
 
   return divisores
 
+  array_de_primos = divisores_primos(40) 
   
    
